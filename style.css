@@ -3,15 +3,21 @@
 #warp{
 	border-radius: 0pt 30pt;
 	background-color: #1D6712;
-	height: 123px;
-	display: table;
-	width: 100vw;
+	height: 90vh;
+	display: table-cell;
+	width: 90vw;
+	margin-left: 5vw;
+	margin-top: 5vh;
+	margin-right: 5vw;
+	margin-left: 5vw;
+	margin-bottom: 5vh;
 }
 #Const{
 	font-size: 40pt;
 	color: #FFFFFF;
 }
 body{
+	display: table;
 	background-image: url(https://www.comunio.es/i/2/rasen_cropped.jpg)
 
 }
