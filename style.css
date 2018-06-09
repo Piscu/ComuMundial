@@ -1,0 +1,16 @@
+@charset "utf-8";
+
+#warp{
+	border-radius: 0pt 30pt;
+	background-color: #1D6712;
+	height: 123px;
+	display: table;
+	width: 100vw;
+}
+#Const{
+	font-size: 40pt;
+	color: #FFFFFF;
+}
+body{
+	background-color: #000000;
+}
