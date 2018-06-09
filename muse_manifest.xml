@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://piscu.github.io/ComuMundial" resolutions="1x" timestamp="1528537474187">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://piscu.github.io/ComuMundial" resolutions="1x" timestamp="1528541573764">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-p_g_-maestra.css" crc="3860458504" ref="index"/>
-    <file name="index.css" crc="450313905" ref="index"/>
+    <file name="index.css" crc="3766028836" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -19,6 +19,14 @@
     <file name="destination--red.png" crc="419836914" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="u183-4.png" crc="4112600954" ref="index"/>
+    <file name="u175-4.png" crc="65364918" ref="index"/>
+    <file name="u192-4.png" crc="4220551296" ref="index"/>
+    <file name="u210-4.png" crc="96104967" ref="index"/>
+    <file name="u201-4.png" crc="117946721" ref="index"/>
+    <file name="u219-4.png" crc="350664759" ref="index"/>
+    <file name="u237-4.png" crc="426973796" ref="index"/>
+    <file name="u228-4.png" crc="328174699" ref="index"/>
   </folder>
-  <file name="index.html" crc="3873951502" seo="true" mt="1528537473951" redirect="true"/>
+  <file name="index.html" crc="197374351" seo="true" mt="1528541561595" redirect="true"/>
 </manifest>
