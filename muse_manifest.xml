@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://piscu.github.io/ComuMundial" resolutions="1x" timestamp="1528547909631">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://piscu.github.io/ComuMundial" resolutions="1x" timestamp="1528548089796">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-p_g_-maestra.css" crc="3860458504" ref="index:formulario"/>
@@ -29,6 +29,6 @@
     <file name="u237-4.png" crc="426973796" ref="index"/>
     <file name="u228-4.png" crc="328174699" ref="index"/>
   </folder>
-  <file name="index.html" crc="209538137" seo="true" mt="1528547899146" redirect="true"/>
-  <file name="formulario.html" crc="109619387" seo="true" mt="1528547899146" redirect="true"/>
+  <file name="index.html" crc="3883511050" seo="true" mt="1528548081929" redirect="true"/>
+  <file name="formulario.html" crc="4111098366" seo="true" mt="1528548081929" redirect="true"/>
 </manifest>
