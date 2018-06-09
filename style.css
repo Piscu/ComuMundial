@@ -1,23 +1,39 @@
 @charset "utf-8";
 
+#Head{
+	padding-top: 5vh;
+	height: 30%;
+	width: 95%;
+	display: block;
+	background-image: url(destination--red.png);
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-top: 4%;
+	margin-right: 5%;
+	margin-left: 5%;
+	margin-bottom: 0vh;
+}
 #warp{
 	border-radius: 0pt 30pt;
 	background-color: #1D6712;
-	height: 90vh;
-	display: table-cell;
-	width: 90vw;
-	margin-left: 5vw;
-	margin-top: 5vh;
-	margin-right: 5vw;
-	margin-left: 5vw;
-	margin-bottom: 5vh;
+	height: 75%;
+	display: block;
+	width: 90%;
+	padding-right: 5%;
+	padding-left: 5vw;
+	padding-top: 0px;
+	margin-top: 0%;
+	margin-right: 5%;
+	margin-left: 5%;
+	margin-bottom: auto;
 }
 #Const{
 	font-size: 40pt;
 	color: #FFFFFF;
 }
 body{
-	display: table;
-	background-image: url(https://www.comunio.es/i/2/rasen_cropped.jpg)
+	display: inherit;
+	background-image: url(https://www.comunio.es/i/2/rasen_cropped.jpg);
+	padding-left: 0px;
 
 }
