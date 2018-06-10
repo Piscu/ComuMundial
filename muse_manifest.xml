@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://piscu.github.io/ComuMundial" resolutions="1x" timestamp="1528672925563">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://piscu.github.io/ComuMundial" resolutions="1x" timestamp="1528675002276">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-p_g_-maestra.css" crc="4265783924" ref="classificacion:formulario:index"/>
     <file name="classificacion.css" crc="107608103" ref="classificacion"/>
     <file name="formulario.css" crc="365176930" ref="formulario"/>
-    <file name="index.css" crc="59488248" ref="index"/>
+    <file name="index.css" crc="4118702939" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:classificacion:formulario"/>
@@ -23,7 +23,7 @@
     <file name="u148-4.png" crc="235560226" ref="index:classificacion:formulario"/>
     <file name="u151-4.png" crc="4123195295" ref="index:classificacion:formulario"/>
   </folder>
-  <file name="index.html" crc="172998213" seo="true" mt="1528672918237" redirect="true"/>
+  <file name="index.html" crc="3853682571" seo="true" mt="1528674974266" redirect="true"/>
   <file name="classificacion.html" crc="4122635119" seo="true" mt="1528672670948" redirect="true"/>
   <file name="formulario.html" crc="3780253089" seo="true" mt="1528672859056" redirect="true"/>
 </manifest>
