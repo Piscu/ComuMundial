@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://piscu.github.io/ComuMundial" resolutions="1x" timestamp="1528675002276">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://piscu.github.io/ComuMundial" resolutions="1x" timestamp="1528717286034">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-p_g_-maestra.css" crc="4265783924" ref="classificacion:formulario:index"/>
-    <file name="classificacion.css" crc="107608103" ref="classificacion"/>
+    <file name="classificacion.css" crc="322553809" ref="classificacion"/>
     <file name="formulario.css" crc="365176930" ref="formulario"/>
     <file name="index.css" crc="4118702939" ref="index"/>
   </folder>
@@ -11,19 +11,20 @@
     <file name="museutils.js" crc="3803043152" ref="index:classificacion:formulario"/>
     <file name="whatinput.js" crc="86476730" ref="index:classificacion:formulario"/>
     <file name="museconfig.js" crc="380897831" ref="index:classificacion:formulario"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:classificacion"/>
     <file name="jquery.watch.js" crc="99325471" ref="index:classificacion:formulario"/>
     <file name="require.js" crc="4157109226" ref="index:classificacion:formulario"/>
   </folder>
   <folder name="images">
-    <file name="world_cup_2018_wallpaper_by_jafarjeef-dccx5fc.jpg" crc="3894398168" ref="index">
+    <file name="world_cup_2018_wallpaper_by_jafarjeef-dccx5fc.jpg" crc="3894398168" ref="index:classificacion">
       <caption webpage="index" alt=""/>
+      <caption webpage="classificacion" alt=""/>
     </file>
     <file name="u144-4.png" crc="3868979378" ref="index:classificacion:formulario"/>
     <file name="u148-4.png" crc="235560226" ref="index:classificacion:formulario"/>
     <file name="u151-4.png" crc="4123195295" ref="index:classificacion:formulario"/>
   </folder>
   <file name="index.html" crc="3853682571" seo="true" mt="1528674974266" redirect="true"/>
-  <file name="classificacion.html" crc="4122635119" seo="true" mt="1528672670948" redirect="true"/>
+  <file name="classificacion.html" crc="3770179512" seo="true" mt="1528717203943" redirect="true"/>
   <file name="formulario.html" crc="3780253089" seo="true" mt="1528672859056" redirect="true"/>
 </manifest>
