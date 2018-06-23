@@ -8,13 +8,43 @@
   </url>
   <url>
     <loc>https://piscu.github.io/ComuMundial/classificacion.html</loc>
-    <lastmod>2018-06-11</lastmod>
+    <lastmod>2018-06-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://piscu.github.io/ComuMundial/formulario.html</loc>
-    <lastmod>2018-06-11</lastmod>
+    <lastmod>2018-06-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://piscu.github.io/ComuMundial/formulario-grupos.html</loc>
+    <lastmod>2018-06-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://piscu.github.io/ComuMundial/formulario-eliminatorias.html</loc>
+    <lastmod>2018-06-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://piscu.github.io/ComuMundial/prosnosticosgrupos.html</loc>
+    <lastmod>2018-06-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://piscu.github.io/ComuMundial/pronosticos-eliminatoria.html</loc>
+    <lastmod>2018-06-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://piscu.github.io/ComuMundial/clasificacion-total.html</loc>
+    <lastmod>2018-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

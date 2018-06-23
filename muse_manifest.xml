@@ -1,30 +1,44 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://piscu.github.io/ComuMundial" resolutions="1x" timestamp="1528717286034">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://piscu.github.io/ComuMundial" resolutions="1x" timestamp="1529713238225">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-p_g_-maestra.css" crc="4265783924" ref="classificacion:formulario:index"/>
-    <file name="classificacion.css" crc="322553809" ref="classificacion"/>
-    <file name="formulario.css" crc="365176930" ref="formulario"/>
+    <file name="master_a-p_g_-maestra.css" crc="4265783924" ref="classificacion:formulario:index:clasificacion-total:formulario-grupos:pronosticos-eliminatoria:formulario-eliminatorias:prosnosticosgrupos"/>
+    <file name="classificacion.css" crc="4265484060" ref="classificacion"/>
+    <file name="formulario.css" crc="233263986" ref="formulario"/>
     <file name="index.css" crc="4118702939" ref="index"/>
+    <file name="clasificacion-total.css" crc="3762538918" ref="clasificacion-total"/>
+    <file name="formulario-grupos.css" crc="3820928833" ref="formulario-grupos"/>
+    <file name="pronosticos-eliminatoria.css" crc="3762538918" ref="pronosticos-eliminatoria"/>
+    <file name="formulario-eliminatorias.css" crc="3762538918" ref="formulario-eliminatorias"/>
+    <file name="prosnosticosgrupos.css" crc="3867783039" ref="prosnosticosgrupos"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:classificacion:formulario"/>
-    <file name="museutils.js" crc="3803043152" ref="index:classificacion:formulario"/>
-    <file name="whatinput.js" crc="86476730" ref="index:classificacion:formulario"/>
-    <file name="museconfig.js" crc="380897831" ref="index:classificacion:formulario"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:classificacion:formulario:formulario-grupos:formulario-eliminatorias:prosnosticosgrupos:pronosticos-eliminatoria:clasificacion-total"/>
+    <file name="museutils.js" crc="3803043152" ref="index:classificacion:formulario:formulario-grupos:formulario-eliminatorias:prosnosticosgrupos:pronosticos-eliminatoria:clasificacion-total"/>
+    <file name="whatinput.js" crc="86476730" ref="index:classificacion:formulario:formulario-grupos:formulario-eliminatorias:prosnosticosgrupos:pronosticos-eliminatoria:clasificacion-total"/>
+    <file name="museconfig.js" crc="380897831" ref="index:classificacion:formulario:formulario-grupos:formulario-eliminatorias:prosnosticosgrupos:pronosticos-eliminatoria:clasificacion-total"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:classificacion"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:classificacion:formulario"/>
-    <file name="require.js" crc="4157109226" ref="index:classificacion:formulario"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:classificacion:formulario:formulario-grupos:formulario-eliminatorias:prosnosticosgrupos:pronosticos-eliminatoria:clasificacion-total"/>
+    <file name="require.js" crc="4157109226" ref="index:classificacion:formulario:formulario-grupos:formulario-eliminatorias:prosnosticosgrupos:pronosticos-eliminatoria:clasificacion-total"/>
   </folder>
   <folder name="images">
     <file name="world_cup_2018_wallpaper_by_jafarjeef-dccx5fc.jpg" crc="3894398168" ref="index:classificacion">
       <caption webpage="index" alt=""/>
       <caption webpage="classificacion" alt=""/>
     </file>
-    <file name="u144-4.png" crc="3868979378" ref="index:classificacion:formulario"/>
-    <file name="u148-4.png" crc="235560226" ref="index:classificacion:formulario"/>
-    <file name="u151-4.png" crc="4123195295" ref="index:classificacion:formulario"/>
+    <file name="u144-4.png" crc="3868979378" ref="index:classificacion:formulario:formulario-grupos:formulario-eliminatorias:prosnosticosgrupos:pronosticos-eliminatoria:clasificacion-total"/>
+    <file name="u148-4.png" crc="235560226" ref="index:classificacion:formulario:formulario-grupos:formulario-eliminatorias:prosnosticosgrupos:pronosticos-eliminatoria:clasificacion-total"/>
+    <file name="u151-4.png" crc="4123195295" ref="index:classificacion:formulario:formulario-grupos:formulario-eliminatorias:prosnosticosgrupos:pronosticos-eliminatoria:clasificacion-total"/>
+    <file name="u542-4.png" crc="10545733" ref="classificacion"/>
+    <file name="u545-4.png" crc="4049421408" ref="classificacion"/>
+    <file name="u483-4.png" crc="188948423" ref="formulario"/>
+    <file name="u487-4.png" crc="56613988" ref="formulario"/>
   </folder>
   <file name="index.html" crc="3853682571" seo="true" mt="1528674974266" redirect="true"/>
-  <file name="classificacion.html" crc="3770179512" seo="true" mt="1528717203943" redirect="true"/>
-  <file name="formulario.html" crc="3780253089" seo="true" mt="1528672859056" redirect="true"/>
+  <file name="classificacion.html" crc="4274734188" seo="true" mt="1529586874549" redirect="true"/>
+  <file name="formulario.html" crc="3242245" seo="true" mt="1529016237280" redirect="true"/>
+  <file name="formulario-grupos.html" crc="3797732997" seo="true" mt="1529015837494" redirect="true"/>
+  <file name="formulario-eliminatorias.html" crc="141559734" seo="true" mt="1529015778257" redirect="true"/>
+  <file name="prosnosticosgrupos.html" crc="336048497" seo="true" mt="1529582972564" redirect="true"/>
+  <file name="pronosticos-eliminatoria.html" crc="3771988547" seo="true" mt="1529067560869" redirect="true"/>
+  <file name="clasificacion-total.html" crc="4294379091" seo="true" mt="1529067584550" redirect="true"/>
 </manifest>
