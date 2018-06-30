@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://piscu.github.io/ComuMundial" resolutions="1x" timestamp="1530216202862">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://piscu.github.io/ComuMundial" resolutions="1x" timestamp="1530371085173">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-p_g_-maestra.css" crc="4265783924" ref="classificacion:formulario:index:clasificacion-total:formulario-grupos:pronosticos-eliminatoria:formulario-eliminatorias:prosnosticosgrupos"/>
@@ -7,7 +7,7 @@
     <file name="index.css" crc="4118702939" ref="index"/>
     <file name="clasificacion-total.css" crc="3762538918" ref="clasificacion-total"/>
     <file name="formulario-grupos.css" crc="3820928833" ref="formulario-grupos"/>
-    <file name="pronosticos-eliminatoria.css" crc="3762538918" ref="pronosticos-eliminatoria"/>
+    <file name="pronosticos-eliminatoria.css" crc="4169109023" ref="pronosticos-eliminatoria"/>
     <file name="formulario-eliminatorias.css" crc="114070706" ref="formulario-eliminatorias"/>
     <file name="prosnosticosgrupos.css" crc="3867783039" ref="prosnosticosgrupos"/>
   </folder>
@@ -16,14 +16,15 @@
     <file name="museutils.js" crc="3803043152" ref="index:classificacion:formulario:formulario-grupos:formulario-eliminatorias:prosnosticosgrupos:pronosticos-eliminatoria:clasificacion-total"/>
     <file name="whatinput.js" crc="86476730" ref="index:classificacion:formulario:formulario-grupos:formulario-eliminatorias:prosnosticosgrupos:pronosticos-eliminatoria:clasificacion-total"/>
     <file name="museconfig.js" crc="380897831" ref="index:classificacion:formulario:formulario-grupos:formulario-eliminatorias:prosnosticosgrupos:pronosticos-eliminatoria:clasificacion-total"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:classificacion:formulario-eliminatorias"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:classificacion:formulario-eliminatorias:pronosticos-eliminatoria"/>
     <file name="jquery.watch.js" crc="99325471" ref="index:classificacion:formulario:formulario-grupos:formulario-eliminatorias:prosnosticosgrupos:pronosticos-eliminatoria:clasificacion-total"/>
     <file name="require.js" crc="4157109226" ref="index:classificacion:formulario:formulario-grupos:formulario-eliminatorias:prosnosticosgrupos:pronosticos-eliminatoria:clasificacion-total"/>
   </folder>
   <folder name="images">
-    <file name="world_cup_2018_wallpaper_by_jafarjeef-dccx5fc.jpg" crc="3894398168" ref="index:classificacion:formulario-eliminatorias">
+    <file name="world_cup_2018_wallpaper_by_jafarjeef-dccx5fc.jpg" crc="3894398168" ref="index:classificacion:formulario-eliminatorias:pronosticos-eliminatoria">
       <caption webpage="index" alt=""/>
       <caption webpage="classificacion" alt=""/>
+      <caption webpage="pronosticos-eliminatoria" alt=""/>
       <caption webpage="formulario-eliminatorias" alt=""/>
     </file>
     <file name="u144-4.png" crc="3868979378" ref="index:classificacion:formulario:formulario-grupos:formulario-eliminatorias:prosnosticosgrupos:pronosticos-eliminatoria:clasificacion-total"/>
@@ -40,6 +41,6 @@
   <file name="formulario-grupos.html" crc="3797732997" seo="true" mt="1529015837494" redirect="true"/>
   <file name="formulario-eliminatorias.html" crc="3874237215" seo="true" mt="1530215518004" redirect="true"/>
   <file name="prosnosticosgrupos.html" crc="336048497" seo="true" mt="1529582972564" redirect="true"/>
-  <file name="pronosticos-eliminatoria.html" crc="3771988547" seo="true" mt="1529067560869" redirect="true"/>
+  <file name="pronosticos-eliminatoria.html" crc="518143061" seo="true" mt="1530371069597" redirect="true"/>
   <file name="clasificacion-total.html" crc="4294379091" seo="true" mt="1529067584550" redirect="true"/>
 </manifest>
